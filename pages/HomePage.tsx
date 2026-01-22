@@ -48,7 +48,7 @@ const HomePage: React.FC<{ onNavigate: (page: Page) => void; }> = ({ onNavigate 
                 <div className="relative z-20 container mx-auto px-6">
                     <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight leading-tight mb-4 animate-[fadeInUp_1s_ease-out]">
                         Betrouwbare Auto's 
-                        <br>
+                        <br />
                         <span className="text-red-500">Professioneel Onderhoud</span>
                     </h1>
                     <p className="text-lg md:text-xl max-w-3xl mx-auto text-gray-200 mb-8 animate-[fadeInUp_1.5s_ease-out]">
